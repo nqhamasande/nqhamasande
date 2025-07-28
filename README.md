@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Qhama Yedwa</h1>
+<h1 align="center">Hi, I'm Qhama Yedwa</h1>
 <h3 align="center">A passionate frontend developer from Cape Town</h3>
 
 <h3 align="left">Connect with me:</h3>
