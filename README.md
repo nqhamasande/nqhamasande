@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi, I am Qhama Yedwa</h1>
+<h3 align="center">A passionate frontend developer from Cape Town</h3>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qhamayedwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qhama-yedwa-965b6015b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ymasande@gmail.com) 
 
